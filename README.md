@@ -1,4 +1,4 @@
-# TelegramVideoStickerMaker
+# Telegram Video Stickers Maker
 BAT and BASH FFMPEG scripts to make Video Stickers for Telegram
 
 -------------------------------------------------
